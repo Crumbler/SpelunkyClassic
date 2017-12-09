@@ -1,0 +1,2 @@
+﻿WIDTH=640
+NO BORDERS=False

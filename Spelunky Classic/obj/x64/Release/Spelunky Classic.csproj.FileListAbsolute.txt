@@ -1,0 +1,49 @@
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Spelunky Classic.exe.config
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Spelunky Classic.exe
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Spelunky Classic.pdb
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\sfmlnet-audio-2.dll
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\sfmlnet-graphics-2.dll
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\sfmlnet-system-2.dll
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\sfmlnet-window-2.dll
+D:\My projects\Spelunky Classic\Spelunky Classic\obj\x64\Release\Spelunky Classic.csprojResolveAssemblyReference.cache
+D:\My projects\Spelunky Classic\Spelunky Classic\obj\x64\Release\Spelunky Classic.csproj.CoreCompileInputs.cache
+D:\My projects\Spelunky Classic\Spelunky Classic\obj\x64\Release\Spelunky Classic.exe
+D:\My projects\Spelunky Classic\Spelunky Classic\obj\x64\Release\Spelunky Classic.pdb
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\csfml-audio-2.dll
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\csfml-graphics-2.dll
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\csfml-system-2.dll
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\csfml-window-2.dll
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\openal32.dll
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\config.txt
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sStandLeft.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sAttackLeft_strip11.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sClimbUp2_strip12.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sClimbUp3_strip12.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sClimbUp_strip6.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sCrawlLeft_strip10.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sDieL.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sDieLBounce.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sDieLFall.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sDieLL.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sDieLR.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sDuckLeft.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sDuckToHangL_strip9.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sFallLeft.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sHangLeft.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sJumpLeft.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sLookLeft.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sLookRunL_strip6.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sPExit_strip16.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sPKissL_strip10.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sPKissR_strip10.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sPushLeft_strip7.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sRunLeft_strip6.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sStandLeftIco.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sStunL_strip5.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sThrowLeft_strip9.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sWhoaLeft_strip7.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sYellLeft_strip10.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\sYellRight_strip10.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\Sprites\Tiles\sBrick.png
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\VelcroPhysics.dll
+D:\My projects\Spelunky Classic\Spelunky Classic\bin\x64\Release\level.txt
